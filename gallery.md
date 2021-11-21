@@ -2,7 +2,7 @@
 title:  ""
 layout: post
 ---
-
+<img src="/assets/pipette.jpg" alt="drawing" width="20" height="30"/>
 ![alt text](https://github.com/edward-quinn/edward-quinn.github.io/blob/master/assets/pipette.jpg?raw=true)
 ![alt text](https://github.com/edward-quinn/edward-quinn.github.io/blob/master/assets/lab.jpg?raw=true)
 ![alt text](https://github.com/edward-quinn/edward-quinn.github.io/blob/master/assets/heal.jpg?raw=true)
