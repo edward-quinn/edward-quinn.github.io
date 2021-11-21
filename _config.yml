@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
 
-  - {url: {{ https://github.com/edward-quinn/edward-quinn.github.io }}{{ /blob/61a917c24dfd3a47df208999d971ff4ca365454a/edwardcv20211120.pdf }}, title: "CV"}
+  - {file: {{ https://github.com/edward-quinn/edward-quinn.github.io }}{{ /blob/61a917c24dfd3a47df208999d971ff4ca365454a/edwardcv20211120.pdf }}, title: "CV"}
   - {file: "blog.md", title: "Blog"}
   
 
