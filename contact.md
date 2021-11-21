@@ -1,5 +1,5 @@
 ---
-title: Email
+title: ""
 layout: page
 ---
 
