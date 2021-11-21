@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Research", file: "research.md"}
   - {title: "CV", url: "https://edward-quinn.github.io/edwardcv20211120.pdf"}
   - {title: "Gallery", file: "gallery.md"}
-  - {title: "Blog", file: "blog.md" }
+  # - {title: "Blog", file: "blog.md" }
   - {title: "Contact", file: "contact.md"}
 
   
