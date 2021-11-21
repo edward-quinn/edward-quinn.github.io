@@ -16,8 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/blog.md", title: "Blog"}
-  - {file: "/edwardcv20211120.pdf", title: "CV"}
+  - {file: "blog.md", title: "Blog"}
+  - {file: "edwardcv20211120.pdf", title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:edwardquinn@ufl.edu"}
