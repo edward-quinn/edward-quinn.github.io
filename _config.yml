@@ -25,6 +25,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/edward-quinn"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/edwardbquinn"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/edward-quinn-9a2a1a62/"}
+  - {title: Orcid, icon: orcid, url: "https://orcid.org/0000-0002-0199-4938n"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
