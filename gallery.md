@@ -2,7 +2,7 @@
 title:  ""
 layout: post
 ---
-<img src="/assets/pipette.jpg" alt="Pipetting" width="50%" height="50%"/>
+<img src="/assets/pipette.jpg" alt="Pipetting" width="25%" height="25%"/>
 <img src="/assets/lab.jpg" alt="Lab" width="250" height="250"/>
 <img src="/assets/heal.jpg" alt="HEAL Africa Hospital" width="250" height="250"/>
 <img src="/assets/ph.jpg" alt="Ebola checkpoint" width="250" height="250"/>
