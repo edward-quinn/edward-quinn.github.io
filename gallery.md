@@ -2,10 +2,11 @@
 title:  ""
 layout: post
 ---
-<img src="/assets/pipette.jpg" alt="drawing" width="20" height="30"/>
-![alt text](https://github.com/edward-quinn/edward-quinn.github.io/blob/master/assets/pipette.jpg?raw=true)
-![alt text](https://github.com/edward-quinn/edward-quinn.github.io/blob/master/assets/lab.jpg?raw=true)
-![alt text](https://github.com/edward-quinn/edward-quinn.github.io/blob/master/assets/heal.jpg?raw=true)
-![alt text](https://github.com/edward-quinn/edward-quinn.github.io/blob/master/assets/ph.jpg?raw=true)
-![alt text](https://github.com/edward-quinn/edward-quinn.github.io/blob/master/assets/teach.jpg?raw=true)
-![alt text](https://github.com/edward-quinn/edward-quinn.github.io/blob/master/assets/data_team.jpg?raw=true)
+<img src="/assets/pipette.jpg" alt="Pipetting" width="500" height="300"/>
+<img src="/assets/lab.jpg" alt="Lab" width="500" height="300"/>
+<img src="/assets/heal.jpg" alt="HEAL Africa Hospital" width="500" height="300"/>
+<img src="/assets/ph.jpg" alt="Ebola checkpoint" width="500" height="300"/>
+<img src="/assets/teach.jpg" alt="Training the data collection team" width="500" height="300"/>
+<img src="/assets/data_team.jpg" alt="Training the data analysis team" width="500" height="300"/>
+
+![lab](https://user-images.githubusercontent.com/43826755/142776631-5977d9f5-5701-4653-9f4b-09d8a98c5f84.jpg)
