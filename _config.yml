@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
 >
-  - {url: <a href="username.github.io/folder/document.pdf" target="_blank">https://github.com/edward-quinn/edward-quinn.github.io/edwardcv20211120.pdf.</a, title: "CV"}
+  - {file: "edwardcv20211120.pdf", title: "CV"}
   - {file: "blog.md", title: "Blog"}
   
 
