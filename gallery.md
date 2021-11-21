@@ -3,4 +3,4 @@ title:  ""
 layout: post
 ---
 
-![Alt text](assets/pipette.jpg?raw=true "Title")
+![alt text](https://github.com/edward-quinn/edward-quinn.github.io/blob/master/assets/pipette.jpg?raw=true)
